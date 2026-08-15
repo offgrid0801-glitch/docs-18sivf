@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-geyp60.salamduit.sbs/sitemap.xml
